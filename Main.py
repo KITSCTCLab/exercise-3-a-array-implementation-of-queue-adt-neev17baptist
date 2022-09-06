@@ -135,4 +135,4 @@ If the comparison fails, set is_palindrome as False.
 if is_palindrome:
     print("The word, " + text + ", is a palindrome.")
 else:
-    print("The word, " + text + ", is not a palindrome.")
+    print("The word, " + text + ", is not a palindrome.") 
